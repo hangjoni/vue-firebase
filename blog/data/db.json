@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "My first blog post",
+      "body": "Lorem ipsum",
+      "tags": ["some tag", "note"]
+    },
+    {
+      "id": 1,
+      "title": "Second blog post",
+      "body": "Lorem ipsum",
+      "tags": ["tag me", "diary", "second"]
+    }
+  ]
+}
